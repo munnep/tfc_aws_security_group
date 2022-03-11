@@ -1,4 +1,4 @@
-# tfc_aws_security_group
+# Using Policy Sets within TFC
 
 This repository will show you how to use the HashiCorp Foundation Policies Library to force default sentinel policies to make you compliant with the CIS (Center for Internet Security) defaults.
 
